@@ -8,7 +8,7 @@
 
 import Foundation
 
-struct SolarDate {
+public struct SolarDate {
     let date: DateComponents
     let coordinates: Coordinates
     let solar: SolarPosition

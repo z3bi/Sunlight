@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Sunlight'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'High precision sunrise and sunset times.'
 
   s.description      = <<-DESC
@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/z3bi/Sunlight"
   s.license          = 'MIT'
   s.author           = { 'Ameir Al-Zoubi' => 'ameir@ameir.com' }
-  s.source           = { :git => 'https://github.com/z3bi/Sunlight.git', :tag => '1.0.0' }
+  s.source           = { :git => 'https://github.com/z3bi/Sunlight.git', :tag => '1.0.1' }
 
   s.social_media_url = 'https://twitter.com/ameir'
 
